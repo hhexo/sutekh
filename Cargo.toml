@@ -1,0 +1,7 @@
+[package]
+name = "sutekh"
+version = "0.1.0"
+authors = ["Dario Domizioli <dario.domizioli@oracle.com>"]
+
+[dependencies]
+rand = "0.3"
